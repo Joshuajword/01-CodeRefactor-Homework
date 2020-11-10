@@ -1,2 +1,2 @@
-# 01-CoderRefactor-Homework
+# 01-CodeRefactor-Homework
 First homework assignment, re-uploaded
